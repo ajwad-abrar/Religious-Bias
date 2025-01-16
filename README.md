@@ -3,4 +3,4 @@
 
 ## View Count
 
-![View Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/<your-username>/<your-repo>&title=Views)
+**Total Page View:** ![View Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/<your-username>/<your-repo>&title=Total%20Page%20View)
