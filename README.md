@@ -4,4 +4,4 @@ All prompts utilized for mask-filling and prompt-completion tasks, along with th
 
 ## View Count
 
-![View Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ajwad-abrar/Religious-Bias&title=Total%20Page%20View)
+![Visitor Count](https://visitor-counter-badge.vercel.app/api/ajwad-abrar/Religious-Bias/)
