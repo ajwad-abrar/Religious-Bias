@@ -1,4 +1,4 @@
-# 🕌 Religious Bias in Text-to-Image Models
+# Religious Bias in Text-to-Image Models
 
 This repository contains prompts and outputs used in our study on religious bias in text-to-image generation models. We systematically evaluate bias across multiple religions, using both mask-filling and prompt-completion methods. All prompt data and generated images are made publicly available to support transparency and reproducibility in future research.
 
