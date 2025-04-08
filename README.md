@@ -4,4 +4,5 @@ All prompts utilized for mask-filling and prompt-completion tasks, along with th
 
 ## View Count
 
-![Visitor Count](https://visitor-counter-badge.vercel.app/api/ajwad-abrar/Religious-Bias/)
+![Visitor Count](https://profile-counter.glitch.me/ajwad-abrar/count.svg)
+
