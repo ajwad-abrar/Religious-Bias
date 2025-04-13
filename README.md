@@ -19,7 +19,7 @@ The aim of this work is to:
 ## 📊 Repository Stats
 
 
-![Views](https://img.shields.io/badge/Views-1234-blue?logo=github)
+![VisitorCount](https://profile-counter.glitch.me/ajwad-abrar/count.svg)
 
 ## 📄 Citation
 
