@@ -18,7 +18,7 @@ The aim of this work is to:
 
   ## 📊 Repository Stats
 
-![View Count](https://visitor-badge.glitch.me/badge?page_id=ajwad-abrar.Religious-Bias)
+![View Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ajwad-abrar/Religious-Bias&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 ## 📄 Citation
 
