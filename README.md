@@ -16,9 +16,10 @@ The aim of this work is to:
 - Provide a benchmark dataset to support fairness research in generative AI.
 - Highlight intersectional aspects like religion × gender × nationality × age group.
 
-  ## 📊 Repository Stats
+## 📊 Repository Stats
 
-![View Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ajwad-abrar/Religious-Bias&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![Views](https://img.shields.io/badge/Views-1234-blue?logo=github)
 
 ## 📄 Citation
 
